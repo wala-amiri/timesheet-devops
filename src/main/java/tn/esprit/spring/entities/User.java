@@ -88,6 +88,8 @@ public class User implements Serializable {
 	public void setRole(Role role) {
 		this.role = role;
 	}
+
+	// TEST pour le deuxième commit dans git
 	
 
 }
