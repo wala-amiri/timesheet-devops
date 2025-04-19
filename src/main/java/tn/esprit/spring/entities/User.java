@@ -90,6 +90,6 @@ public class User implements Serializable {
 	}
 
 	// TEST pour le deuxième commit dans git
-	
+	// test commit sur la nouvelle branche user-management
 
 }
